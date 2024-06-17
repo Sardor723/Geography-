@@ -1,2 +1,2 @@
-# Geografiya-
+# Geography-
 Geografik ma'lumotlar

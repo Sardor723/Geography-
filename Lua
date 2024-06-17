@@ -1,0 +1,6 @@
+/project-folder
+|-- index.html
+|-- styles.css
+|-- script.js
+|-- images/
+    |-- (saytingiz uchun kerakli rasmlar)
